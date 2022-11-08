@@ -1,0 +1,1 @@
+Простецкая игра на pygame. Автор https://proglib.io/p/kak-napisat-igru-na-python-5-igrovyh-dvizhkov-2022-11-07
